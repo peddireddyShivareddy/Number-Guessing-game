@@ -1,0 +1,32 @@
+[270ns] Shutting down all processes 
+[242.82µs] Terminating process supervisor with PID 35 (state: S, cmdlind: [supervisor run] <nil>). 
+[15.678529ms] Terminating main process errored: waitid: no child processes 
+[15.928899ms] Terminating process bash with PID 1758 (state: S, cmdlind: [/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh] <nil>). 
+[15.952369ms] Terminating main process errored: waitid: no child processes 
+[15.991999ms] Terminating process postgres with PID 834 (state: S, cmdlind: [postgres: 12/main: autovacuum launcher   ] <nil>). 
+[16.029419ms] Terminating main process errored: waitid: no child processes 
+[16.054169ms] Terminating process psql with PID 1150 (state: S, cmdlind: [psql --username=freecodecamp --dbname=postgres] <nil>). 
+[16.079849ms] Terminating main process errored: waitid: no child processes 
+[16.093199ms] Terminating process postgres with PID 835 (state: S, cmdlind: [postgres: 12/main: stats collector   ] <nil>). 
+[16.113779ms] Terminating main process errored: waitid: no child processes 
+[16.141549ms] Terminating process postgres with PID 836 (state: S, cmdlind: [postgres: 12/main: logical replication launcher   ] <nil>). 
+[16.169149ms] Terminating process node with PID 71 (state: R, cmdlind: [/ide/node /ide/out/server-main.js --log=info --install-builtin-extension gitpod.gitpod-theme --install-builtin-extension github.vscode-pull-request-github --install-extension coderoad.coderoad --port 23000 --host 0.0.0.0 --without-connection-token --server-data-dir /workspace/.vscode-remote --do-not-sync --start-server] <nil>). 
+[16.174329ms] Terminating process postgres with PID 831 (state: S, cmdlind: [postgres: 12/main: checkpointer   ] <nil>). 
+[16.178419ms] Terminating main process errored: waitid: no child processes 
+[16.187679ms] Terminating main process errored: waitid: no child processes 
+[16.229859ms] Terminating process node with PID 671 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=ptyHost --logsPath /workspace/.vscode-remote/data/logs/20240702T005806] <nil>). 
+[16.261469ms] Terminating main process errored: waitid: no child processes 
+[16.281699ms] Terminating process postgres with PID 829 (state: S, cmdlind: [/usr/lib/postgresql/12/bin/postgres -D /var/lib/postgresql/12/main -c config_file=/etc/postgresql/12/main/postgresql.conf] <nil>). 
+[16.305659ms] Terminating process postgres with PID 1151 (state: S, cmdlind: [postgres: 12/main: freecodecamp postgres 127.0.0.1(38522) idle] <nil>). 
+[16.344429ms] Terminating main process errored: waitid: no child processes 
+[16.345179ms] Terminating process postgres with PID 833 (state: S, cmdlind: [postgres: 12/main: walwriter   ] <nil>). 
+[16.366459ms] Terminating process bash with PID 841 (state: S, cmdlind: [/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh] <nil>). 
+[16.398709ms] Terminating main process errored: waitid: no child processes 
+[16.348199ms] Terminating process bash with PID 1234 (state: S, cmdlind: [/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh] <nil>). 
+[16.417638ms] Terminating main process errored: waitid: no child processes 
+[16.401769ms] Terminating main process errored: waitid: no child processes 
+[16.426718ms] Terminating process postgres with PID 832 (state: S, cmdlind: [postgres: 12/main: background writer   ] <nil>). 
+[16.470958ms] Terminating main process errored: waitid: no child processes 
+[44.932386ms] Terminating main process errored: waitid: no child processes 
+[67.245714ms] Terminating main process errored: waitid: no child processes 
+[67.424864ms] Finished shutting down all processes. 

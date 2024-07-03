@@ -1,0 +1,31 @@
+2024-07-02 00:58:06.850 [info] 
+
+
+
+
+2024-07-02 00:58:06.870 [info] Extension host agent started.
+2024-07-02 00:58:06.898 [info] Started initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2024-07-02 00:58:06.997 [info] Completed initializing default profile extensions in extensions installation folder. file:///workspace/.vscode-remote/extensions
+2024-07-02 00:58:07.020 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2024-07-02 00:58:08.439 [info] Installing builtin extension 'github.vscode-pull-request-github'...
+2024-07-02 00:58:08.461 [info] Getting Manifest... github.vscode-pull-request-github
+2024-07-02 00:58:08.768 [info] Installing extension: github.vscode-pull-request-github file:///workspace/.vscode-remote/extensions/extensions.json
+2024-07-02 00:58:10.413 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.90.0-universal: github.vscode-pull-request-github
+2024-07-02 00:58:10.417 [info] Renamed to /workspace/.vscode-remote/extensions/github.vscode-pull-request-github-0.90.0-universal
+2024-07-02 00:58:10.474 [info] Extension installed successfully: github.vscode-pull-request-github file:///workspace/.vscode-remote/extensions/extensions.json
+2024-07-02 00:58:10.474 [info] Extension 'github.vscode-pull-request-github' v0.90.0 was successfully installed.
+2024-07-02 00:58:10.477 [info] Installing extensions...
+2024-07-02 00:58:10.774 [info] Installing extension 'coderoad.coderoad'...
+2024-07-02 00:58:10.775 [info] Getting Manifest... coderoad.coderoad
+2024-07-02 00:58:10.943 [info] Installing extension: coderoad.coderoad file:///workspace/.vscode-remote/extensions/extensions.json
+2024-07-02 00:58:11.155 [info] [192.168.89.76][3ccc63a6][ManagementConnection] New connection established.
+2024-07-02 00:58:11.613 [info] Extracted extension to file:///workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal: coderoad.coderoad
+2024-07-02 00:58:11.616 [info] Renamed to /workspace/.vscode-remote/extensions/coderoad.coderoad-0.19.4-universal
+2024-07-02 00:58:11.665 [info] Extension installed successfully: coderoad.coderoad file:///workspace/.vscode-remote/extensions/extensions.json
+2024-07-02 00:58:11.666 [info] Extension 'coderoad.coderoad' v0.19.4 was successfully installed.
+2024-07-02 00:58:14.006 [info] [192.168.89.76][2cb1b250][ExtensionHostConnection] New connection established.
+2024-07-02 00:58:14.012 [info] [192.168.89.76][2cb1b250][ExtensionHostConnection] <613> Launched Extension Host Process.
+2024-07-02 01:44:23.407 [info] [192.168.190.11][2cb1b250][ExtensionHostConnection] The client has reconnected.
+2024-07-02 01:44:23.633 [info] [192.168.190.11][3ccc63a6][ManagementConnection] The client has reconnected.
+2024-07-02 02:07:56.811 [info] [192.168.190.11][3ccc63a6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-07-02 02:07:56.863 [info] [192.168.190.11][2cb1b250][ExtensionHostConnection] <613> Extension Host Process exited with code: 0, signal: null.
